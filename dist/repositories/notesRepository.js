@@ -5,7 +5,7 @@ exports.notes = [
     {
         id: "0",
         text: "Note 1",
-        archieved: true,
+        archived: true,
         createdTime: "7/30/2021",
         category: "Task",
     },
@@ -52,3 +52,4 @@ exports.notes = [
         category: "Task",
     },
 ];
+//# sourceMappingURL=notesRepository.js.map
